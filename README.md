@@ -1,4 +1,4 @@
-# rv-renault-header-footer-v1
+# nissan-header-footer-v1
 
 ## Project setup
 ```
